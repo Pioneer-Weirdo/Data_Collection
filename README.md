@@ -1,3 +1,5 @@
+<div style='color:red'>注意:</div>需要在根目录下创建Driver文件夹,放入chrome-test和chrome-driver
+
 ## 任务
 links.json中有501条链接,每条所耗费的时间大概为20s-30s,
 将links.json中的链接分成三段,即501/3=167条数据
