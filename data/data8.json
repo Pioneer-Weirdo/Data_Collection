@@ -1,0 +1,882 @@
+[
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "DESIGN AUTOMATION FOR EMBEDDED SYSTEMS",
+        "年份": "2023",
+        "ISSN": "0929-5585",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, HARDWARE & ARCHITECTURE 计算机：硬件 -\nCOMPUTER SCIENCE, SOFTWARE ENGINEERING 计算机：软件工程": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE 计算机：硬件",
+        "COMPUTER SCIENCE, SOFTWARE ENGINEERING 计算机：软件工程": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "Signal Image and Video Processing",
+        "年份": "2023",
+        "ISSN": "1863-1703",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 ENGINEERING, ELECTRICAL & ELECTRONIC 工程：电子与电气 -\nIMAGING SCIENCE & PHOTOGRAPHIC TECHNOLOGY 成像科学与照相技术": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "ENGINEERING, ELECTRICAL & ELECTRONIC 工程：电子与电气",
+        "IMAGING SCIENCE & PHOTOGRAPHIC TECHNOLOGY 成像科学与照相技术": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "International Journal of Computational Intelligence Systems",
+        "年份": "2023",
+        "ISSN": "1875-6891",
+        "Review": "否",
+        "Open Access": "是",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能 -\nCOMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS 计算机：跨学科应用": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能",
+        "COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS 计算机：跨学科应用": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "ADAPTIVE BEHAVIOR",
+        "年份": "2023",
+        "ISSN": "1059-7123",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SSCI;SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能 -\nPSYCHOLOGY, EXPERIMENTAL 心理学：实验\nSOCIAL SCIENCES, INTERDISCIPLINARY 社会科学：跨领域": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能",
+        "PSYCHOLOGY, EXPERIMENTAL 心理学：实验": "",
+        "SOCIAL SCIENCES, INTERDISCIPLINARY 社会科学：跨领域": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "DISTRIBUTED COMPUTING",
+        "年份": "2023",
+        "ISSN": "0178-2770",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法 -": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法"
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "Evolving Systems",
+        "年份": "2023",
+        "ISSN": "1868-6478",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能 -": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能"
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "ARTIFICIAL LIFE",
+        "年份": "2023",
+        "ISSN": "1064-5462",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能 -\nCOMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能",
+        "COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "APPLIED ARTIFICIAL INTELLIGENCE",
+        "年份": "2023",
+        "ISSN": "0883-9514",
+        "Review": "否",
+        "Open Access": "是",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能 -\nENGINEERING, ELECTRICAL & ELECTRONIC 工程：电子与电气": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能",
+        "ENGINEERING, ELECTRICAL & ELECTRONIC 工程：电子与电气": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "INTERNATIONAL JOURNAL OF PARALLEL PROGRAMMING",
+        "年份": "2023",
+        "ISSN": "0885-7458",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法 -": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法"
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "ACM TRANSACTIONS ON COMPUTER SYSTEMS",
+        "年份": "2023",
+        "ISSN": "0734-2071",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法 -": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法"
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "GEOINFORMATICA",
+        "年份": "2023",
+        "ISSN": "1384-6175",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, INFORMATION SYSTEMS 计算机：信息系统 -\nGEOGRAPHY, PHYSICAL 自然地理": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, INFORMATION SYSTEMS 计算机：信息系统",
+        "GEOGRAPHY, PHYSICAL 自然地理": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "Applied Ontology",
+        "年份": "2023",
+        "ISSN": "1570-5838",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能 -\nCOMPUTER SCIENCE, INFORMATION SYSTEMS 计算机：信息系统\nCOMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能",
+        "COMPUTER SCIENCE, INFORMATION SYSTEMS 计算机：信息系统": "",
+        "COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "Advances in Mathematics of Communications",
+        "年份": "2023",
+        "ISSN": "1930-5346",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法 -\nMATHEMATICS, APPLIED 应用数学": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法",
+        "MATHEMATICS, APPLIED 应用数学": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "TELECOMMUNICATION SYSTEMS",
+        "年份": "2023",
+        "ISSN": "1018-4864",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 TELECOMMUNICATIONS 电信学 -": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "TELECOMMUNICATIONS 电信学"
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "OPTIMAL CONTROL APPLICATIONS & METHODS",
+        "年份": "2023",
+        "ISSN": "0143-2087",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 AUTOMATION & CONTROL SYSTEMS 自动化与控制系统 -\nMATHEMATICS, APPLIED 应用数学\nOPERATIONS RESEARCH & MANAGEMENT SCIENCE 运筹学与管理科学": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "AUTOMATION & CONTROL SYSTEMS 自动化与控制系统",
+        "MATHEMATICS, APPLIED 应用数学": "",
+        "OPERATIONS RESEARCH & MANAGEMENT SCIENCE 运筹学与管理科学": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "Romanian Journal of Information Science and Technology",
+        "年份": "2023",
+        "ISSN": "1453-8245",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法 -\nINSTRUMENTS & INSTRUMENTATION 仪器仪表\nPHYSICS, APPLIED 物理：应用": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法",
+        "INSTRUMENTS & INSTRUMENTATION 仪器仪表": "",
+        "PHYSICS, APPLIED 物理：应用": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "Physical Communication",
+        "年份": "2023",
+        "ISSN": "1874-4907",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 ENGINEERING, ELECTRICAL & ELECTRONIC 工程：电子与电气 -\nTELECOMMUNICATIONS 电信学": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "ENGINEERING, ELECTRICAL & ELECTRONIC 工程：电子与电气",
+        "TELECOMMUNICATIONS 电信学": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "INTERNATIONAL JOURNAL OF FOUNDATIONS OF COMPUTER SCIENCE",
+        "年份": "2023",
+        "ISSN": "0129-0541",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法 -": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法"
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "PHOTONIC NETWORK COMMUNICATIONS",
+        "年份": "2023",
+        "ISSN": "1387-974X",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, INFORMATION SYSTEMS 计算机：信息系统 -\nOPTICS 光学\nTELECOMMUNICATIONS 电信学": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, INFORMATION SYSTEMS 计算机：信息系统",
+        "OPTICS 光学": "",
+        "TELECOMMUNICATIONS 电信学": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "INTERNATIONAL JOURNAL OF CONTROL",
+        "年份": "2023",
+        "ISSN": "0020-7179",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 AUTOMATION & CONTROL SYSTEMS 自动化与控制系统 -": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "AUTOMATION & CONTROL SYSTEMS 自动化与控制系统"
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "New Review of Hypermedia and Multimedia",
+        "年份": "2023",
+        "ISSN": "1361-4568",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, INFORMATION SYSTEMS 计算机：信息系统 -": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, INFORMATION SYSTEMS 计算机：信息系统"
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "IET Software",
+        "年份": "2023",
+        "ISSN": "1751-8806",
+        "Review": "否",
+        "Open Access": "是",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, SOFTWARE ENGINEERING 计算机：软件工程 -": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, SOFTWARE ENGINEERING 计算机：软件工程"
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "ACTA INFORMATICA",
+        "年份": "2023",
+        "ISSN": "0001-5903",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, INFORMATION SYSTEMS 计算机：信息系统 -": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, INFORMATION SYSTEMS 计算机：信息系统"
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "INTELLIGENT AUTOMATION AND SOFT COMPUTING",
+        "年份": "2023",
+        "ISSN": "1079-8587",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 AUTOMATION & CONTROL SYSTEMS 自动化与控制系统 -\nCOMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "AUTOMATION & CONTROL SYSTEMS 自动化与控制系统",
+        "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "WIRELESS PERSONAL COMMUNICATIONS",
+        "年份": "2023",
+        "ISSN": "0929-6212",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 TELECOMMUNICATIONS 电信学 -": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "TELECOMMUNICATIONS 电信学"
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "Swarm Intelligence",
+        "年份": "2023",
+        "ISSN": "1935-3812",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能 -\nROBOTICS 机器人学": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能",
+        "ROBOTICS 机器人学": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "INFORMATION AND COMPUTATION",
+        "年份": "2023",
+        "ISSN": "0890-5401",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法 -\nMATHEMATICS, APPLIED 应用数学": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法",
+        "MATHEMATICS, APPLIED 应用数学": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "ADVANCED ROBOTICS",
+        "年份": "2023",
+        "ISSN": "0169-1864",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 ROBOTICS 机器人学 -": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "ROBOTICS 机器人学"
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "INTERNATIONAL JOURNAL OF COMMUNICATION SYSTEMS",
+        "年份": "2023",
+        "ISSN": "1074-5351",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 ENGINEERING, ELECTRICAL & ELECTRONIC 工程：电子与电气 -\nTELECOMMUNICATIONS 电信学": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "ENGINEERING, ELECTRICAL & ELECTRONIC 工程：电子与电气",
+        "TELECOMMUNICATIONS 电信学": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "JOURNAL OF VISUALIZATION",
+        "年份": "2023",
+        "ISSN": "1343-8875",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS 计算机：跨学科应用 -\nIMAGING SCIENCE & PHOTOGRAPHIC TECHNOLOGY 成像科学与照相技术": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS 计算机：跨学科应用",
+        "IMAGING SCIENCE & PHOTOGRAPHIC TECHNOLOGY 成像科学与照相技术": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "THEORY OF COMPUTING SYSTEMS",
+        "年份": "2023",
+        "ISSN": "1432-4350",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法 -\nMATHEMATICS 数学": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法",
+        "MATHEMATICS 数学": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "IET Microwaves Antennas & Propagation",
+        "年份": "2023",
+        "ISSN": "1751-8725",
+        "Review": "否",
+        "Open Access": "是",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 ENGINEERING, ELECTRICAL & ELECTRONIC 工程：电子与电气 -\nTELECOMMUNICATIONS 电信学": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "ENGINEERING, ELECTRICAL & ELECTRONIC 工程：电子与电气",
+        "TELECOMMUNICATIONS 电信学": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "EURASIP Journal on Wireless Communications and Networking",
+        "年份": "2023",
+        "ISSN": "1687-1472",
+        "Review": "否",
+        "Open Access": "是",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 ENGINEERING, ELECTRICAL & ELECTRONIC 工程：电子与电气 -\nTELECOMMUNICATIONS 电信学": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "ENGINEERING, ELECTRICAL & ELECTRONIC 工程：电子与电气",
+        "TELECOMMUNICATIONS 电信学": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "NEW GENERATION COMPUTING",
+        "年份": "2023",
+        "ISSN": "0288-3635",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, HARDWARE & ARCHITECTURE 计算机：硬件 -\nCOMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE 计算机：硬件",
+        "COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "ACM SIGCOMM Computer Communication Review",
+        "年份": "2023",
+        "ISSN": "0146-4833",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, INFORMATION SYSTEMS 计算机：信息系统 -": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, INFORMATION SYSTEMS 计算机：信息系统"
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "COMPUTATIONAL INTELLIGENCE",
+        "年份": "2023",
+        "ISSN": "0824-7935",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能 -": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能"
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "CONSTRAINTS",
+        "年份": "2023",
+        "ISSN": "1383-7133",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能 -\nCOMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能",
+        "COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "ACM Transactions on Asian and Low-Resource Language Information Processing",
+        "年份": "2023",
+        "ISSN": "2375-4699",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能 -": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能"
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "ANNALS OF MATHEMATICS AND ARTIFICIAL INTELLIGENCE",
+        "年份": "2023",
+        "ISSN": "1012-2443",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能 -\nMATHEMATICS, APPLIED 应用数学": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能",
+        "MATHEMATICS, APPLIED 应用数学": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "GRAPHICAL MODELS",
+        "年份": "2023",
+        "ISSN": "1524-0703",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, SOFTWARE ENGINEERING 计算机：软件工程 -": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, SOFTWARE ENGINEERING 计算机：软件工程"
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "Natural Computing",
+        "年份": "2023",
+        "ISSN": "1567-7818",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能 -\nCOMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能",
+        "COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "Journal of Signal Processing Systems for Signal Image and Video Technology",
+        "年份": "2023",
+        "ISSN": "1939-8018",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, INFORMATION SYSTEMS 计算机：信息系统 -\nENGINEERING, ELECTRICAL & ELECTRONIC 工程：电子与电气": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, INFORMATION SYSTEMS 计算机：信息系统",
+        "ENGINEERING, ELECTRICAL & ELECTRONIC 工程：电子与电气": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "IET Biometrics",
+        "年份": "2023",
+        "ISSN": "2047-4938",
+        "Review": "否",
+        "Open Access": "是",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能 -": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能"
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "COMPUTER",
+        "年份": "2023",
+        "ISSN": "0018-9162",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, HARDWARE & ARCHITECTURE 计算机：硬件 -\nCOMPUTER SCIENCE, SOFTWARE ENGINEERING 计算机：软件工程": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE 计算机：硬件",
+        "COMPUTER SCIENCE, SOFTWARE ENGINEERING 计算机：软件工程": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "IEEE COMPUTER GRAPHICS AND APPLICATIONS",
+        "年份": "2023",
+        "ISSN": "0272-1716",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, SOFTWARE ENGINEERING 计算机：软件工程 -": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, SOFTWARE ENGINEERING 计算机：软件工程"
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "Intelligent Service Robotics",
+        "年份": "2023",
+        "ISSN": "1861-2776",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 ROBOTICS 机器人学 -": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "ROBOTICS 机器人学"
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "IBM JOURNAL OF RESEARCH AND DEVELOPMENT",
+        "年份": "2023",
+        "ISSN": "0018-8646",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, HARDWARE & ARCHITECTURE 计算机：硬件 -\nCOMPUTER SCIENCE, INFORMATION SYSTEMS 计算机：信息系统\nCOMPUTER SCIENCE, SOFTWARE ENGINEERING 计算机：软件工程\nCOMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE 计算机：硬件",
+        "COMPUTER SCIENCE, INFORMATION SYSTEMS 计算机：信息系统": "",
+        "COMPUTER SCIENCE, SOFTWARE ENGINEERING 计算机：软件工程": "",
+        "COMPUTER SCIENCE, THEORY & METHODS 计算机：理论方法": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "IT Professional",
+        "年份": "2023",
+        "ISSN": "1520-9202",
+        "Review": "否",
+        "Open Access": "否",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, INFORMATION SYSTEMS 计算机：信息系统 -\nCOMPUTER SCIENCE, SOFTWARE ENGINEERING 计算机：软件工程\nTELECOMMUNICATIONS 电信学": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, INFORMATION SYSTEMS 计算机：信息系统",
+        "COMPUTER SCIENCE, SOFTWARE ENGINEERING 计算机：软件工程": "",
+        "TELECOMMUNICATIONS 电信学": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "IET Image Processing",
+        "年份": "2023",
+        "ISSN": "1751-9659",
+        "Review": "否",
+        "Open Access": "是",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能 -\nENGINEERING, ELECTRICAL & ELECTRONIC 工程：电子与电气\nIMAGING SCIENCE & PHOTOGRAPHIC TECHNOLOGY 成像科学与照相技术": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 计算机：人工智能",
+        "ENGINEERING, ELECTRICAL & ELECTRONIC 工程：电子与电气": "",
+        "IMAGING SCIENCE & PHOTOGRAPHIC TECHNOLOGY 成像科学与照相技术": ""
+    },
+    {
+        "分区": [
+            "\"4\"",
+            "\"4\"",
+            "\"4\""
+        ],
+        "刊名": "International Journal of Computers Communications & Control",
+        "年份": "2023",
+        "ISSN": "1841-9836",
+        "Review": "否",
+        "Open Access": "是",
+        "Web of Science": "SCIE",
+        "学科 分区 Top期刊\n大类 计算机科学 否\n小类 AUTOMATION & CONTROL SYSTEMS 自动化与控制系统 -\nCOMPUTER SCIENCE, INFORMATION SYSTEMS 计算机：信息系统": "",
+        "": "学科",
+        "大类": "计算机科学",
+        "小类": "AUTOMATION & CONTROL SYSTEMS 自动化与控制系统",
+        "COMPUTER SCIENCE, INFORMATION SYSTEMS 计算机：信息系统": ""
+    }
+]
